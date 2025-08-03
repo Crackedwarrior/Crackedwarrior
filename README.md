@@ -25,5 +25,9 @@
 </p>
 
 
+### 🧪 Featured Projects
+
+- 🎭 [Theatre Booking App](https://github.com/ujwal10/theatre-booking) — Offline-first, full-stack seat manager.
+- 🤖 [AI Civic Assistant](https://github.com/ujwal10/local-govt-ai) — Helping citizens navigate paperwork.
 
 
