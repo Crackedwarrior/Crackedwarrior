@@ -13,18 +13,6 @@ Currently building an **offline theatre booking system** using **React + Tauri**
 
 ---
 
-### 🔨 **My Projects**
-1. **[offlinebooking](https://github.com/Crackedwarrior/offlinebooking)**  
-   A Tauri-powered movie ticketing system with **offline-first DB** and **PDF export**.
-
-2. **[Poaching Detection using CNN](https://github.com/suryakirank1/Poaching-Detection-using-CNN-model/tree/master)**  
-   A deep learning project aimed at **poaching detection** using **CNN (Convolutional Neural Networks)** for image classification.
-
-3. **[Amazon HTML Clone](https://github.com/Crackedwarrior/Amazon-HTML-Clone)**  
-   A **frontend replica** of Amazon's **UI**.
-
----
-
 > "Code hard. Fail fast. Learn forever."
 ### 🧰 Languages and Tools
 
