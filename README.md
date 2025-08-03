@@ -27,7 +27,7 @@
 
 ### 🧪 Featured Projects
 
-- 🎭 [Theatre Booking App](https://github.com/ujwal10/theatre-booking) — Offline-first, full-stack seat manager.
+- 🎭 [Theatre Booking App](https://github.com/Crackedwarrior/offlinebooking) — Offline-first, full-stack seat manager, currently in use by a real-world theatre enterprise.
 
 
 
