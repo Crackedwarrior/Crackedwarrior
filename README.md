@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Ujwal R Shetty*
+# 👋 Hi, I'm *Ujwal R Shetty*
 > Still figuring it out, but building cool stuff along the way.
 
 > Passionate about building tools that *actually* solve problems.  
@@ -24,6 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-> "Code hard. Fail fast. Learn forever."
+
 
 
