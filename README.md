@@ -28,6 +28,7 @@
 ### 🧪 Featured Projects
 
 - 🎭 [Theatre Booking App](https://github.com/Crackedwarrior/offlinebooking) — Offline-first, full-stack seat manager, currently in use by a real-world theatre enterprise.
+- 🐾 [Poaching Surveillance](https://github.com/Crackedwarrior/Poaching-Surveillance) — CNN-powered system to detect illegal poaching activity from surveillance images.
 
 
 
