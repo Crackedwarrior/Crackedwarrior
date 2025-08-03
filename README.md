@@ -25,24 +25,6 @@ Currently building an **offline theatre booking system** using **React + Tauri**
 
 ---
 
-### 📚 **What I'm Learning Now**
-- **Advanced TypeScript**, **Prisma ORM**, **MongoDB Sync**
-- **Cloud Deployment** (Vercel, Supabase, Tauri packaging)
-- **LeetCode** – Solving problems and improving problem-solving skills.
-
----
-
-### 🚀 **Technologies I'm Familiar With**
-- **Languages**: JavaScript, TypeScript, C++, Python
-- **Frameworks**: React, Node.js, Express, Tauri
-- **Databases**: MongoDB, PostgreSQL, Supabase
-- **Tools**: Git, Vercel, Docker
-
----
-
-Feel free to explore my work and connect with me through the links above. 😄
-
-
 > "Code hard. Fail fast. Learn forever."
 ### 🧰 Languages and Tools
 
