@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ujwal R Shetty (aka Crackedwarrior)
+# 👋 Hi there, I'm Ujwal R Shetty 
 
 🎓 Final-year Computer Science Student  
 💻 Passionate about Cybersecurity, Full-Stack Dev & DSA  
@@ -21,7 +21,6 @@
 ---
 
 ## 📫 Connect with me
-- 📧 ujwal@example.com *(update with real email or use mask)*
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ujwal10)
 
 ---
