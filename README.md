@@ -1,17 +1,7 @@
-# 👋 Hi, I'm **Ujwal R Shetty**
+# 👋 Hi, I'm **Ujwal R Shetty*
+> Still figuring it out, but building cool stuff along the way.
+> Passionate about building tools that *actually* solve problems.  
 
-**Final-year Computer Science Student**  
-**Passionate about Cybersecurity, Full-Stack Development, and DSA**  
-Currently building an **offline theatre booking system** using **React + Tauri**  
-
----
-
-### 🔗 **Connect with Me**
-- **LeetCode Profile**: [Crackedcoder10110](https://leetcode.com/u/crackedcoder10110/)
-- **LinkedIn**: [Ujwal R Shetty](Your LinkedIn Profile Link)
-- **GitHub**: [Crackedwarrior](https://github.com/Crackedwarrior)
-
----
 
 > "Code hard. Fail fast. Learn forever."
 ### 🧰 Languages and Tools
